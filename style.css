@@ -1,0 +1,13 @@
+li {
+    display: inline;
+  }
+  
+body{
+    color: red;
+}
+
+.intro {
+    color: blue;
+  }
+  p.important {
+    color: green;}
